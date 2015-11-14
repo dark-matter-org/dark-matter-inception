@@ -1,0 +1,1 @@
+The dark-matter set of projects provide a variety of artifact generation mechanisms. The dark-matter inception project provides a variety of tools that allow new dark-matter users to get up and running quickly.
